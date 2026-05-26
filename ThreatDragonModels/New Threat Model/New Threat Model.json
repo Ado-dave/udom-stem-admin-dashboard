@@ -1,0 +1,16 @@
+{
+  "version": "2.6.2",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Ado",
+    "description": "E-commerce",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "CNISE-SE",
+    "threatTop": 0
+  }
+}
